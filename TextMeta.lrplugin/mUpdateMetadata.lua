@@ -1,0 +1,2 @@
+textMeta:updateMetadata()
+return true
