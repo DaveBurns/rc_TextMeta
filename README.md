@@ -28,7 +28,7 @@ Updating
 -  Click 'Update Plugin'.
 
 
-To Unintall
+To Uninstall
 ===========
 
 -  Open Lightroom's Plugin Manager (on the File Menu).
